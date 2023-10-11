@@ -1,4 +1,4 @@
-package com.example.dbsm;
+package com.example.desktopRele;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

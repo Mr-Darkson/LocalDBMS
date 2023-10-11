@@ -11,8 +11,8 @@ module com.example.dbsm {
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
 
-    opens com.example.dbsm to javafx.fxml;
-    exports com.example.dbsm;
+    opens com.example.desktopRele to javafx.fxml;
+    exports com.example.desktopRele;
     exports com.example.tables;
     opens com.example.tables to javafx.fxml;
 }

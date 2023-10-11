@@ -1,4 +1,4 @@
-package com.example.dbsm;
+package com.example.desktopRele;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
